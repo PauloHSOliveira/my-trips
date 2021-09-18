@@ -4,6 +4,9 @@ import Image from 'next/image'
 type Props = {
   title: string
 }
+
+const a = ''
+
 export default function Home({ title }: Props) {
   return (
     <div>
